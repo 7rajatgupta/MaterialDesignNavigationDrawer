@@ -1,5 +1,5 @@
 # Material Navigation Drawer.
-### A custom activity designed by <a href="https://github.com/rajatpunkstaa">Rajat Gupta</a> which you can choose from the ** New > Activity** menu in Android Studio.
+### A custom activity designed by <a href="https://github.com/rajatpunkstaa">Rajat Gupta</a> which you can choose from the ` New > Activity` menu in Android Studio.
 
 <h1>
 <img src="https://dl2.pushbulletusercontent.com/fDyj4cw32htKAUo9LDhGnUjLfIAvapGU/InShot_20170207_150337.jpg" alilgn="left"/>
