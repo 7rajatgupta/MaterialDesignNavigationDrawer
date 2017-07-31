@@ -5,11 +5,10 @@
 <img src="https://dl2.pushbulletusercontent.com/fDyj4cw32htKAUo9LDhGnUjLfIAvapGU/InShot_20170207_150337.jpg" alilgn="left"/>
 </h1>
 #### Using this you can create Material Design Navigation Drawer with ease. Android Studio 2.2+ always adds up unnecessary code and methods. This gives a minimal approach giving you exactly everything you need.
-####It has three design layouts as shown in the screenshots.
+#### It has three design layouts as shown in the screenshots.
 - 1.Drawer with Black Toolbar.
 - 2. Draweer with Normal shade Toolbar.
 - 3.Drawer with visibility on Top of the Toolbar.
-#
 
   <h1>
   <img src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png" title="Black Toolbar" align="left"/>
@@ -18,12 +17,11 @@
   </h1>
   
 <h2> Installation :</h2>
-####1. Copy the `MaterialNavigationDrawerActivity` folder to the template folder located in:
+#### 1. Copy the `MaterialNavigationDrawerActivity` folder to the template folder located in: `{Android Studio installation dir}\plugins\android\lib\templates\activities\`
 
-#### `{Android Studio installation dir}\plugins\android\lib\templates\activities\`
-
-####2. Restart Android studio.
+#### 2. Restart Android studio.
 <p><br><br><br><br><br><br><br><br><br><br></p>
+
 ## Usage:
 
  - Click **File > New > New Project...** 
@@ -33,6 +31,8 @@
  - Click **Finish**
  
  <p><br><br><br><br><br><br><br><br><br><br></p>
- ###Find out more at the Developer Documentation.
+ 
+ 
+ ### Find out more at the Developer Documentation.
  #### I'd love to hear from you :)
  #### Good Luck !
