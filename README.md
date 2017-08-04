@@ -5,35 +5,14 @@
 #### Using this you can create Material Design Navigation Drawer with ease. Android Studio 2.2+ always adds up unnecessary code and methods. This gives a minimal approach giving you exactly everything you need.
 
 #### It has three design layouts as shown in the screenshots.
-<div>
-  1.Drawer with Black Toolbar.
-  <img align="left" src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png">
-</div>
+1.Drawer with Black Toolbar.
+2.Drawer with Normal shade Toolbar.
+3.Drawer with visibility on Top of the Toolbar.
 
-
-
-
-
-
-
-
-
-
-<div>
-  2.Drawer with Normal shade Toolbar.
-  <img align="left" src="https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png">
-</div>
-
-
-
-
-
-
-
-
-<div>
-  3.Drawer with visibility on Top of the Toolbar.
-  <img align="left" src="https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png">
+<div id="screenshots">
+  <img align="left" width="320" height="480"  src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png">
+  <img align="center" width="320" height="480"  src="https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png">
+  <img align="right" width="320" height="480"  src="https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png">
 </div>
 
   
