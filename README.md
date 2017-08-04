@@ -6,12 +6,12 @@
 
 #### It has three design layouts as shown in the screenshots.
 *  1.Drawer with Black Toolbar.
-*  2.Draweer with Normal shade Toolbar.
+  <img align="left" src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png">
+*  2.Drawer with Normal shade Toolbar.
+  <img align="left" src="https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png">
 *  3.Drawer with visibility on Top of the Toolbar.
+  <img align="left" src="https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png">
 
-![black-toolbar](https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png)
-![normal-drawer](https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png)
-![top-drawer](https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png)
   
 ### Installation :
 *  Copy the `MaterialNavigationDrawerActivity` folder to the template folder located in: `{Android Studio installation dir}\plugins\android\lib\templates\activities\`
