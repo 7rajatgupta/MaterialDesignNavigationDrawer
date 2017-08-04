@@ -10,9 +10,9 @@
 3.Drawer with visibility on Top of the Toolbar.
 
 <div id="screenshots">
-  <img align="left" width="300" height="400"  src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png">
-  <img align="center" width="300" height="400"  src="https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png">
-  <img align="right" width="300" height="400"  src="https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png">
+  <img align="left" src="https://dl2.pushbulletusercontent.com/C25QMsUVW4ZwlxvutBlaMMd6nNFpCOWn/template_black_toolbar.png">
+  <img align="center" src="https://dl2.pushbulletusercontent.com/orD3lZSqJLufcGGeKCcbk1wIXcqBX90h/template_normal_drawer.png">
+  <img align="right" src="https://dl2.pushbulletusercontent.com/ZNdiYbZBVqN2EjU3tYX5OaMcNSDirL3U/template_top_drawer.png">
 </div>
 
   
