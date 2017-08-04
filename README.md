@@ -8,7 +8,7 @@
 1.Drawer with Black Toolbar.
 2.Drawer with Normal shade Toolbar.
 3.Drawer with visibility on Top of the Toolbar.
-![alt-text-1](https://doc-0o-bg-docs.googleusercontent.com/docs/securesc/kn5tur5c37hl403mgb38nud2avill605/ract1j12qiolc987n0ca5i3pqq769eo4/1501833600000/16867694367171663001/16867694367171663001/0B32WTA8Ky1aSMVhoazZZY0xXUFE?e=download&nonce=8aej0c0i9op94&user=16867694367171663001&hash=v0croir3pv33nt56rrjr0a3vd8lh22u2 "black-toolbar") ![alt-text-2](https://doc-08-bg-docs.googleusercontent.com/docs/securesc/kn5tur5c37hl403mgb38nud2avill605/vp4dthjkohon4ccefvhij0c1csdm52kj/1501833600000/16867694367171663001/16867694367171663001/0B32WTA8Ky1aSb0FnOGJwXzBSb1U?e=download "normal-toolbar") ![alt-text-3](https://doc-00-bg-docs.googleusercontent.com/docs/securesc/kn5tur5c37hl403mgb38nud2avill605/301vlh5qd2una8l5j9d5np01imu9mol5/1501833600000/16867694367171663001/16867694367171663001/0B32WTA8Ky1aScENLemlEQXN3REE?e=download "overlay-toolbar")
+![alt-text-1](https://dl2.pushbulletusercontent.com/1tpfQqjYQvfeWk6zG35CMPUd7xEj4A5D/black-toolbar.png "black-toolbar") ![alt-text-2](https://dl2.pushbulletusercontent.com/IACpHyyhUlZE7hGuUhScWys6n74tveHJ/normal-toolbar.png "normal-toolbar") ![alt-text-3](https://dl2.pushbulletusercontent.com/g9zqgGxvI1qxhezfGfO5SENffzOENsul/overlayed-toolbar.png "overlay-toolbar")
   
 ### Installation :
 *  Copy the `MaterialNavigationDrawerActivity` folder to the template folder located in: `{Android Studio installation dir}\plugins\android\lib\templates\activities\`
